@@ -18,7 +18,7 @@
 #include "timer.h"          // Timer library for AVR-GCC
 #include <uart.h>            
 #include <stdlib.h>         // C library. Needed for number conversions
-
+#include <moisture_sens.h>
 
 /* Function definitions ----------------------------------------------*/
 /**********************************************************************
